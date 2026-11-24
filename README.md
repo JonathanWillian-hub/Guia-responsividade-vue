@@ -209,4 +209,4 @@ Projeto desenvolvido em dupla para a disciplina de desenvolvimento web — **SEN
 | Nome | GitHub |
 |------|--------|
 | Jonathan Willian | [@JonathanWillian-hub](https://github.com/JonathanWillian-hub) |
-| Gabriel *(sobrenome)* | *(link do GitHub)* |
+| Gabriel Pinto| [@JonathanWillian-hub](https://github.com/JonathanWillian-hub) |
