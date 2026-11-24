@@ -1,0 +1,39 @@
+/* Design tokens: todas as cores e espaços do projeto vivem aqui */
+:root {
+  /* cores */
+  --cor-fundo: #eef2ee;
+  --cor-grade: #dde5df;
+  --cor-tinta: #16243a;
+  --cor-tinta-suave: #3b4a63;
+  --cor-marca: #ffd23f;
+  --cor-marca-suave: #fff3c4;
+  --cor-cota: #d62f4b;
+  --cor-cota-suave: #fde8ec;
+  --cor-azul: #2347d6;
+  --cor-sucesso: #1d6b3a;
+  --cor-sucesso-suave: #e3f4e8;
+  --cor-superficie: #ffffff;
+  --cor-borda: #d5ddd8;
+
+  /* espaçamentos (rem: acompanham a fonte configurada pela pessoa) */
+  --espaco-1: 0.5rem;
+  --espaco-2: 1rem;
+  --espaco-3: 1.5rem;
+  --espaco-4: 2.5rem;
+  --espaco-5: 4rem;
+
+  /* cantos e sombras (suaves, para não pesar) */
+  --raio-p: 0.5rem;
+  --raio: 0.875rem;
+  --raio-total: 999px;
+  --sombra-1: 0 1px 2px rgb(22 36 58 / 0.06), 0 1px 3px rgb(22 36 58 / 0.08);
+  --sombra-2: 0 4px 12px -2px rgb(22 36 58 / 0.12), 0 2px 4px -2px rgb(22 36 58 / 0.08);
+
+  /* tipografia */
+  --fonte-titulo: 'Bricolage Grotesque Variable', 'Arial Narrow', sans-serif;
+  --fonte-texto: 'Atkinson Hyperlegible', system-ui, sans-serif;
+  --fonte-codigo: 'IBM Plex Mono', ui-monospace, monospace;
+
+  --largura-texto: 44rem;
+  --transicao: 0.18s ease;
+}
